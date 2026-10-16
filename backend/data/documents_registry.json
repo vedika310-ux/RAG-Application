@@ -1,0 +1,30 @@
+{
+  "documents": {
+    "test_spec_001": {
+      "id": "test_spec_001",
+      "filename": "project_specification.pdf",
+      "file_type": "PDF",
+      "file_size": "45.0 KB",
+      "pages": 3,
+      "chunks_count": 4,
+      "status": "Ready",
+      "upload_time": "2026-10-12T00:00:00",
+      "preview_pages": [
+        {
+          "page": 1,
+          "text": "Project Chimera Intelligent Core\n1. Project Name\nProject Chimera Document Intelligence System for Wi"
+        },
+        {
+          "page": 2,
+          "text": "4. Technology Stack\nBackend: Python 3.11+, FastAPI, Uvicorn, python-dotenv.\nVector Database: ChromaD"
+        },
+        {
+          "page": 3,
+          "text": "6. Limitations\nScanned image-only PDFs without an OCR layer require external pre-processing. Designe"
+        }
+      ],
+      "file_path": "/Users/shubham/.gemini/antigravity/scratch/rag-windows/backend/data/sample_documents/project_specification.pdf"
+    }
+  },
+  "questions_count": 0
+}
